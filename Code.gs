@@ -1,4 +1,4 @@
-//Test Comment - just got longer! Hello world!
+//This comment stands in for unfinished code that I don't want to submit to the main branch yet
 
 function onOpen(){
   var headRow = SpreadsheetApp.getActiveSpreadsheet().getRangeByName("HeadRow").getValue();
